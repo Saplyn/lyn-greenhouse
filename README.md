@@ -8,4 +8,3 @@ nya, nya
 
 purr purr
 
-mew, nya~
