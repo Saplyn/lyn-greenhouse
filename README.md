@@ -1,11 +1,3 @@
 # lyn-greenhouse
 
-meow meow meow meow meow meow.
-
-woof, woof~
-
-nya, nya
-
-purr purr
-
-uwu
+这是一个测试性的 Git 仓库
