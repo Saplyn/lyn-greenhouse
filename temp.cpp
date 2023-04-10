@@ -2,7 +2,7 @@
 
 void Print()
 {
-    printf("Saplyn is a l'l dog\n");
+    printf("Saplyn is a l'l cat\n");
 }
 
 int main()
